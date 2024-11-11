@@ -1,11 +1,15 @@
-# 💤 LazyVim
+# Introduction
+
+This repository contains all the dotfiles/config files of my NeoVim setup.
+
+## 💤 LazyVim
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
 ---
 
-# Adding custom plugins to the neovim 🏓
+## Adding custom plugins to the neovim 🏓
 
 **Below is the example of adding markdown-preview plugin into my neovim**
 
