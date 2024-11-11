@@ -2,6 +2,10 @@
 
 This repository contains all the dotfiles/config files of my NeoVim setup.
 
+## Interface
+
+![image](./images/lazyvim.png)
+
 ## 💤 LazyVim
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
